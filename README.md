@@ -235,8 +235,10 @@ e45ddda9-eb80-4858-99a9-226d4f08a629
 ["[BaseModel] (4c8f7ebc-257f-4ed1-b26b-e7aace459897) [BaseModel] (4c8f7ebc-257f-4ed1-b26b-e7aace459897) {'id': '4c8f7ebc-257f
 
 
-0x06 Authors
+
+
 ## Authors
+
 <details>
     <summary>Mohmaed Sadek</summary>
     <ul>
@@ -246,6 +248,8 @@ e45ddda9-eb80-4858-99a9-226d4f08a629
 <details>
     <summary>Lamiae Grefi</summary>
     <ul>
-    <li>lam@gmail.com</li>
+    <li><a href="https://github.com/">Github</a></li>
     </ul>
+
+
 </details>
