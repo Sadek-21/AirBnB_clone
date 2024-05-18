@@ -270,7 +270,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 <details>
     <summary>Lamiae Grefi</summary>
     <ul>
-    <li><a href="https://www.github.com/Stephenkimani27">Github</a></li>
+    <li><a href="https://github.com/Lamiaegf?tab=repositories">Github</a></li>
     </ul>
    
     
